@@ -20,6 +20,11 @@ input[type="checkbox"]:focus {
   outline: none;
 }
 
+.input-range::-webkit-slider-thumb {
+  background-color: var(--light-brown);
+
+}
+
 .banners {
   width: 100%;
   height: 100vh;
