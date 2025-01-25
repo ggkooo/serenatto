@@ -57,3 +57,7 @@ input[type="checkbox"]:focus {
 .btn-default:hover {
   background-color: var(--dark-brown);
 }
+
+footer {
+  background-color: var(--light-brown);
+}
