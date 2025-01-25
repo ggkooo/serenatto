@@ -1,0 +1,21 @@
+:root {
+  --beige: #E6E0D6;
+  --dark-brown: #816D4F;
+  --light-brown: #B29463;
+}
+
+body {
+  font-family: 'Barlow', sans-serif;
+}
+
+input[type=checkbox] {
+  border: 2px solid var(--light-brown);
+}
+
+input[type=checkbox]:checked,
+input[type="checkbox"]:focus {
+  background-color: var(--light-brown);
+  border-color: var(--light-brown);
+  box-shadow: none;
+  outline: none;
+}
