@@ -61,3 +61,22 @@ input[type="checkbox"]:focus {
 footer {
   background-color: var(--light-brown);
 }
+
+[data-bs-theme="dark"] {
+  color: white;
+  .nav-link {
+    --bs-nav-link-color: white;
+  }
+  .card-body {
+    --bs-card-color: white;
+  }
+  .offcanvas {
+    --bs-offcanvas-color: white;
+  }
+  .accordion {
+    --bs-body-color: white;
+  }
+  .btn {
+    --bs-body-color: white;
+  }
+}
