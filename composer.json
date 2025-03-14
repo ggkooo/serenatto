@@ -1,0 +1,18 @@
+{
+    "name": "giordanoberwig/serenatto",
+    "description": "Developing an coffee shop application",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Giordanoberwig\\Serenatto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Giordano Bruno Biasi Berwig",
+            "email": "giordanoberwig@proton.me"
+        }
+    ],
+    "require": {}
+}
