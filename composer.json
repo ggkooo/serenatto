@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Giordanoberwig\\Serenatto\\": "src/"
+            "giordanoberwig\\serenatto\\": "src/"
         }
     },
     "authors": [

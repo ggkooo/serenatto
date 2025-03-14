@@ -75,8 +75,16 @@ footer {
   background-color: var(--light-brown);
 }
 
+.container-height {
+  height: 60vh;
+}
+
+.container-margin-top {
+  margin-top: 15rem !important;
+}
+
 [data-bs-theme="dark"] {
-  color: white;
+  color: white !important;
   .nav-link {
     --bs-nav-link-color: white;
   }

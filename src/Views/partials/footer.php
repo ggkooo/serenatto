@@ -5,7 +5,7 @@
         <a class="btn" href="#"><i class="bi bi-twitter"></i></a>
     </section>
     <div class="p-3">
-        2025 <i class="bi bi-c-circle"></i> Desenvolvido por Giordano Bruno Biasi Berwig | Projeto fictício sem fins comerciais.
+        2025 <i class="bi bi-c-circle"></i> Desenvolvido por <a class="text-decoration-none text-black" href="https://giordanoberwig.xyz" target="_blank" rel="external">Giordano Bruno Biasi Berwig</a> | Projeto fictício sem fins comerciais.
     </div>
 </footer>
 
